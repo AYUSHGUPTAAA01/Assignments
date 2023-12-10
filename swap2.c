@@ -1,6 +1,6 @@
 
 
-//2. Write a C program to swap two numbers without using a third variable"			
+//2. Write a C program to swap two numbers without using a third variable.			
 #include<stdio.h>
 int main()
 {
